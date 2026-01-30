@@ -1,4 +1,4 @@
-# Time Series Modeling
+# Time Series Modeling for Apple Stocks
 #-------------------------------# 
 # Step 1: Load and inspect data 
 #-------------------------------# 
