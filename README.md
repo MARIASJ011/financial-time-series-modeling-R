@@ -1,4 +1,4 @@
-# A7-A-AND-B
+# Time Series Modeling
 #-------------------------------# 
 # Step 1: Load and inspect data 
 #-------------------------------# 
